@@ -1,0 +1,10 @@
+name: s6-tablero
+services:
+  front:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    hostname: frontend.tablero-contrataciones.pdn
+    restart: always
+    ports:
+      - ${FRONT_PORT}:80
