@@ -1,0 +1,26 @@
+[
+  {
+    "entidad": "Aguascalientes",
+    "contrato": "Dato 1.1",
+    "descarga": "Dato 2.1",
+    "monto": "$1,862,405.18",
+    "descripcion": "Mantenimiento mayor a tres cisternas de agua ubicadas en el sótano 4 del edificio sede del INAI.",
+    "img": "ico-map-ags.svg"
+  },
+  {
+    "entidad": "Baja California",
+    "contrato": "Dato 2.2",
+    "descarga": "Dato 3.2",
+    "monto": "$2,000,000.00",
+    "descripcion": "Reparación de la red eléctrica en el edificio gubernamental.",
+    "img": "ico-map-bc.svg"
+  },
+  {
+    "entidad": "Chiapas",
+    "contrato": "Dato 3.3",
+    "descarga": "Dato 4.3",
+    "monto": "$3,500,000.00",
+    "descripcion": "Construcción de nuevas oficinas administrativas.",
+    "img": "ico-map-chis.svg"
+  }
+]
