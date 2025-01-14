@@ -1,0 +1,31 @@
+.input-group .form-control {
+    border-right: none;
+    box-shadow: none;
+  }
+  
+  .input-group .form-control:focus {
+    box-shadow: none;
+    border-color: #dee2e6;
+  }
+  
+  .badge.rounded-circle {
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    line-height: 20px;
+    font-size: 12px;
+  }
+  
+  .bi-circle-fill {
+    font-size: 0.5rem;
+  }
+  
+  .table > :not(caption) > * > * {
+    padding: 1rem 0.5rem;
+  }
+  
+  .icon {
+    width: 35px;
+    margin-right: 5px;
+  }
+  
